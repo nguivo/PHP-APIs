@@ -1,6 +1,6 @@
 # Working With PHP APIs
 
-This project projects demonstrates how to make PHP API calls using curl. I demonstrate this by using the GitHub API. We carryout CRUD operations on any GitHub profile with the proper authentication.
+This project demonstrates how to make PHP API calls using curl. I demonstrate this by using the GitHub API. We carryout CRUD operations on any GitHub profile with the proper authentication.
 
 # How to Install
 1. Pull files from this repository into your own repository on a computer which is configured for PHP to run
